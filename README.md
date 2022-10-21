@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **NodejS**
 
-- 💬 Ask me about **React**
+- 💬 Ask me about **React** and **Flutter**
 
 - 📫 How to reach me **oyeyinkaojoro@gmail.com**
 
