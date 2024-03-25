@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ojora Oyeyinka</h1>
 <h3 align="center">A passionate frontend developer And Mobile App Developer from Nigeria</h3>
 
-- 🌱 I’m currently learning **NodejS**
+- 🌱 I’m currently learning **Everyday**
 
-- 💬 Ask me about **React** and **Flutter**
+- 💬 Ask me about **React** and **NodejS**
 
 - 📫 How to reach me **oyeyinkaojoro@gmail.com**
 
