@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ojora Oyeyinka</h1>
-<h3 align="center">A passionate frontend developer And Mobile App Developer from Nigeria</h3>
+<h3 align="center">A passionate Software engineer</h3>
 
 - 🌱 I’m currently learning **Everyday**
 
